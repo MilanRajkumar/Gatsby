@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "path---second-post": [
+      "path---second-post-68418910519b435d8983.js",
+      "path---second-post-68418910519b435d8983.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-212929d141a007831d97.js",
+      "component---src-pages-index-js-212929d141a007831d97.js.map"
+    ],
+    "path---": [
+      "path----cac63ff5c1b42581353c.js",
+      "path----cac63ff5c1b42581353c.js.map"
+    ],
+    "component---src-template-post-js": [
+      "component---src-template-post-js-2e252987a8c6e5476cdc.js",
+      "component---src-template-post-js-2e252987a8c6e5476cdc.js.map"
+    ],
+    "path---first-post": [
+      "path---first-post-2f6cbd91f2fe24b12782.js",
+      "path---first-post-2f6cbd91f2fe24b12782.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-69925c8b713e1a64c1c7.js",
+      "component---src-layouts-index-js-69925c8b713e1a64c1c7.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-d8c5edeaa42721cdce97.js",
+      "path---index-d8c5edeaa42721cdce97.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-afb5782224ac01f1fa03.js",
+      "commons-afb5782224ac01f1fa03.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js",
+      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
+    ],
+    "app": [
+      "app-10220bcfab3de5d45152.js",
+      "app-10220bcfab3de5d45152.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
